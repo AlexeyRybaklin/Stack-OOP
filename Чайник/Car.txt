@@ -1,0 +1,9 @@
+Car Information 
+
+Color: Red
+Serial number: AEK
+Registration nubmer: FJGHDNF765HFJDN1
+Number of doors: 4
+Manufacture year: 2014
+Type: Car
+Price: 15000$
